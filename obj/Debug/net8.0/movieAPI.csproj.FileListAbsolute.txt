@@ -1,0 +1,15 @@
+C:\Users\1\Documents\GitHub\movieAPI\bin\Debug\net8.0\movieAPI.exe
+C:\Users\1\Documents\GitHub\movieAPI\bin\Debug\net8.0\movieAPI.deps.json
+C:\Users\1\Documents\GitHub\movieAPI\bin\Debug\net8.0\movieAPI.runtimeconfig.json
+C:\Users\1\Documents\GitHub\movieAPI\bin\Debug\net8.0\movieAPI.dll
+C:\Users\1\Documents\GitHub\movieAPI\bin\Debug\net8.0\movieAPI.pdb
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\movieAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\movieAPI.AssemblyInfoInputs.cache
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\movieAPI.AssemblyInfo.cs
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\movieAPI.csproj.CoreCompileInputs.cache
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\movieAPI.sourcelink.json
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\movieAPI.dll
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\refint\movieAPI.dll
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\movieAPI.pdb
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\movieAPI.genruntimeconfig.cache
+C:\Users\1\Documents\GitHub\movieAPI\obj\Debug\net8.0\ref\movieAPI.dll
